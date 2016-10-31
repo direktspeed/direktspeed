@@ -1,5 +1,18 @@
 # direktspeed
-The DIREKTSPEED Framework
+The DIREKTSPEED Framework Its used in the DIREKTSPEED Organization
+and the DIREKTSPEED School for the Projects.
+
+It Mainly Offers:
+- Prerendering
+- Serve Projects with settings
+- Define Projects
+- Handle Project Full Lifecycle Production / Development
+- Steal/DoneJS project support
+- harp project support
+- npm project support
+- wordpress project support
+- joomla project support
+- php project support
 
 # Develop Faster
 - Run your Projects fast and maintainable
