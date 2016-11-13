@@ -1,4 +1,4 @@
-# direktspeed
+# direktspeed - All-in-one stack
 The DIREKTSPEED Framework Its used in the DIREKTSPEED Organization
 and the DIREKTSPEED School for the Projects.
 
