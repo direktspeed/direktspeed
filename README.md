@@ -6,6 +6,7 @@ It Mainly Offers:
 - Prerendering
 - Serve Projects with settings
 - Define Projects
+- FeathersJS
 - Handle Project Full Lifecycle Production / Development
 - Steal/DoneJS project support
 - harp project support
@@ -20,6 +21,9 @@ It Mainly Offers:
 - ssr for Steal Apps
 - harp project support
 - npm project support
+- yarn project support
+- yo generators
+- FeathersJS
 
 # Host Faster
 - Run an Manage your Projects Local or In the Cloud or Both and manage them.
