@@ -1,4 +1,6 @@
 # direktspeed - All-in-one stack
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/direktspeed.svg)](https://greenkeeper.io/)
 The DIREKTSPEED Framework Its used in the DIREKTSPEED Organization
 and the DIREKTSPEED School for the Projects.
 
