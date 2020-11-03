@@ -1,3 +1,12 @@
+## History
+We have Invented what we wanted to invent and we did made it Production Ready. We Bundled our Knowleg and created the "Stealify Compiler" A Complet KI Driven Autonomous Software Engineer and Architect that is able to turn Simple Polyglot Code Input into Working Production Ready Autnomouse Running Software Stack Deployments.
+
+Our KI is Closed Source. Because as we Invented it no one wanted to help us so we decided to make it a buissnes Model. We are now able to Optimize The Process of Software Deployments from the First created version till Production Deployment you will not need to think about Performance or Scale even the Day2 Costs like renting servers gets Optimized while running.
+
+if your interrested to work with us on your next project your invited to leave us a message via mail.
+
+## the content below is 4 years old from now on
+
 # direktspeed - All-in-one stack
 The DIREKTSPEED Framework Its used in the DIREKTSPEED Organization
 and the DIREKTSPEED School for the Projects.
