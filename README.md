@@ -1,3 +1,7 @@
+## This Repo Holds the dspeed.eu Content
+I have choosen to host the new dspeed.eu homepage on github as it allows frindly people to work with me on the Company goals. Every one who contributes to this repo can consider him self Free Intern of DIREKTSPEED. Thanks everyone who helps us to improve the Amazing vision that we have. Feel also free to raise Issues that you have with the homepage.
+
+
 ## History
 We have Invented what we wanted to invent and we did made it Production Ready. We Bundled our Knowleg and created the "Stealify Compiler" A Complet KI Driven Autonomous Software Engineer and Architect that is able to turn Simple Polyglot Code Input into Working Production Ready Autnomouse Running Software Stack Deployments.
 
