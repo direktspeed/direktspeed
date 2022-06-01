@@ -1,6 +1,39 @@
 ## This Repo Holds the dspeed.eu Content
 I have choosen to host the new dspeed.eu homepage on github as it allows frindly people to work with me on the Company goals. Every one who contributes to this repo can consider him self Free Intern of DIREKTSPEED. Thanks everyone who helps us to improve the Amazing vision that we have. Feel also free to raise Issues that you have with the homepage.
 
+## Open Source
+- [@internet-of-presence](https://github.com/internet-of-presence/IoP)
+- @stealify/stealify Stealify Lang a Super Set of ECMAScript/JS/Typescript (https://github.com/tc39/proposal-type-annotations)
+- @stealify/engine-desktop Unified Building Block For WDA's 
+- @open-pwa - will get w3c proposal for a universal installer and its permissions. Web Driven Applications WDA (Applications based on Web Tech Stack)
+- @typescript
+- @rollup
+- @parse5
+- @jsdom
+- @cheerio
+- @graalvm
+- @just-js
+- @
+- @microsoft
+- @google
+- @wintercg
+- @ECMAScript
+- @chromium
+- @vertx
+- @eclipse
+- @docker
+- @moby
+- @openstack
+- @redmine
+- @gitlab
+- @git
+- @github
+- @bittorrent
+- @webtrorrent
+- @WebRTC
+- @nodejs
+- @nodejs-mobile
+
 
 ## History
 We have Invented what we wanted to invent and we did made it Production Ready. We Bundled our Knowleg and created the "Stealify Compiler" A Complet KI Driven Autonomous Software Engineer and Architect that is able to turn Simple Polyglot Code Input into Working Production Ready Autnomouse Running Software Stack Deployments.
